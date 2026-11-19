@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\bin\Debug\net8.0-windows\Ballgame.exe
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\bin\Debug\net8.0-windows\Ballgame.deps.json
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\bin\Debug\net8.0-windows\Ballgame.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\bin\Debug\net8.0-windows\Ballgame.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\bin\Debug\net8.0-windows\Ballgame.pdb
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\Ballgame.Form1.resources
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\Ballgame.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\Ballgame.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\Ballgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\Ballgame.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\Ballgame.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\Ballgame.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\Ballgame.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\refint\Ballgame.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\Ballgame.pdb
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\Ballgame.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\Ballgame\Ballgame\obj\Debug\net8.0-windows\ref\Ballgame.dll
